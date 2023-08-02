@@ -1,0 +1,5 @@
+{
+    "API_URL": "https://api.nal.usda.gov/fdc/v1/foods",
+    "API_KEY": "USE_YOUR_APY_KEY",
+    "FDCIDS": "534358,373052"
+}
